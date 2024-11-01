@@ -977,6 +977,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
+											"top": -16,
 											"height": 13
 										},
 										{
@@ -987,7 +988,7 @@
 											},
 											"font": "Arial;13;1",
 											"left": 517,
-											"top": 39,
+											"top": 31,
 											"width": 679,
 											"height": 13,
 											"text": "Hệ thống quản lý tài khoản"
@@ -1000,6 +1001,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
+											"top": -16,
 											"width": 146.67529296875,
 											"height": 13,
 											"text": "(from Quản lý phúc khảo)"
@@ -1012,13 +1014,14 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
+											"top": -16,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 512,
-									"top": 32,
+									"top": 24,
 									"width": 689,
 									"height": 25,
 									"stereotypeLabel": {
@@ -1037,9 +1040,9 @@
 							],
 							"font": "Arial;13;0",
 							"left": 512,
-							"top": 32,
+							"top": 24,
 							"width": 688,
-							"height": 1048,
+							"height": 1200,
 							"nameCompartment": {
 								"$ref": "AAAAAAGS0is4Yss/I8s="
 							}
@@ -17478,7 +17481,7 @@
 									"font": "Arial;13;0",
 									"left": 477.5,
 									"top": 389,
-									"width": 141.47900390625,
+									"width": 141,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGS4gAGm5tNRVU="
@@ -17677,7 +17680,7 @@
 									"font": "Arial;13;0",
 									"left": 405,
 									"top": 605,
-									"width": 101.04443359375,
+									"width": 100,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGS4gE4KJyX8cI="
@@ -18589,7 +18592,7 @@
 									"font": "Arial;13;0",
 									"left": 449.5,
 									"top": 781,
-									"width": 160.97265625,
+									"width": 160,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGS4gMheaRWC84="
@@ -20222,7 +20225,7 @@
 									"font": "Arial;13;0",
 									"left": 599,
 									"top": 573,
-									"width": 186.9599609375,
+									"width": 186,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGS4gQxCLoYw7Y="
