@@ -6966,7 +6966,7 @@
 									"font": "Arial;13;0",
 									"left": 718.5,
 									"top": 1005,
-									"width": 146.31591796875,
+									"width": 145,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGS4wjKrz+eLQ4="
@@ -14865,12 +14865,12 @@
 										"$ref": "AAAAAAGS4fC9ndYMVwE="
 									},
 									"font": "Arial;13;0",
-									"left": 482,
-									"top": 309,
+									"left": 496,
+									"top": 312,
 									"width": 53.49169921875,
 									"height": 13,
-									"alpha": 1.5707963267948966,
-									"distance": 30,
+									"alpha": 1.408182204833926,
+									"distance": 42.42640687119285,
 									"hostEdge": {
 										"$ref": "AAAAAAGS4fC9ndYOvT0="
 									},
